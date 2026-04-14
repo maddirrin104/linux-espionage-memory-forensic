@@ -98,6 +98,9 @@ Ví dụ:
 10:22:20 dừng PoC
 8. Tắt PoC và revert snapshot
 
+## Quy trình 4 bước:
+Làm theo quy trình 4 bước: `thu thập – bảo toàn – phân tích – diễn giải`
+
 
 
 
